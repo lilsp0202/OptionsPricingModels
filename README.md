@@ -4,6 +4,8 @@
 
 This repository contains a powerful finance tool that implements three fundamental options pricing models: Binomial, Black-Scholes, and Monte Carlo simulations. Designed for finance professionals, traders, and students, this tool provides a user-friendly graphical user interface (GUI) for comparing and analyzing the pricing of call and put options across these models.
 
+For this project, I have used Python and the Numpy, Scipy, and Tkinter libraries
+
 
 ## Features
 - **Three Pricing Models:** Includes implementations of the Binomial model, Black-Scholes model, and Monte Carlo simulation method for options pricing.
