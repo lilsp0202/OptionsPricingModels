@@ -6,6 +6,8 @@ This repository contains a powerful finance tool that implements three fundament
 
 For this project, I have used Python and the Numpy, Scipy, and Tkinter libraries
 
+I have written all my code on a notebook to make it easier for all parties
+
 
 ## Features
 - **Three Pricing Models:** Includes implementations of the Binomial model, Black-Scholes model, and Monte Carlo simulation method for options pricing.
